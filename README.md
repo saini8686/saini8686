@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepanshu_1106" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="deepanshu_1106" height="50" width="50" /></a>
+<a href="https://twitter.com/sani_keshav" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="sani_keshav" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/keshav-saini447424/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/keshav-saini447424/" height="50" width="50" /></a>
 <a href="https://instagram.com/vip_saini__786" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="vip_saini__786" height="50" width="50" /></a>
 </p>
