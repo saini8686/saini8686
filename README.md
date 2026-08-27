@@ -163,11 +163,6 @@ AI-Powered Applications
 * 👥 Grow as a technical team leader
 * 🌍 Contribute to Open Source
 
----
----
----
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
