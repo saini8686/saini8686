@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A2A43&height=220&section=header&text=Keshav%20Saini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Team%20Leader%20%7C%20Product%20Builder&descAlignY=58&descSize=20" width="100%" />
+<img src="./assets/banner.png" width="100%" alt="Connected devices banner" />
+
+<h1>Keshav Saini</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+React+%26+Next.js;Full-Stack+Engineer+%7C+Node.js+%2B+TypeScript;Turning+ideas+into+real%2C+production-ready+products" alt="Typing SVG" />
 
