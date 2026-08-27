@@ -94,7 +94,7 @@ Advanced TypeScript → Advanced Next.js → Node.js Architecture
 ---
 
 ## 🌐 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/keshav-saini447424/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp; <a href="https://twitter.com/sani_keshav"><img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" /></a>&nbsp;&nbsp; <a href="https://instagram.com/vip_saini__786"><img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" /></a>&nbsp;&nbsp; <a href="mailto:ks3399094@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" /></a> </p> <div align="center">
+<p align="left"> <a href="https://www.linkedin.com/in/keshav-saini447424/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp; <a href="https://twitter.com/sani_keshav"><img src="https://skillicons.dev/icons?i=x" width="45" height="45" /></a>&nbsp;&nbsp; <a href="https://instagram.com/vip_saini__786"><img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" /></a>&nbsp;&nbsp; <a href="mailto:ks3399094@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" /></a> </p> <div align="center">
 
 ---
 
