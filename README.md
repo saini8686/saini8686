@@ -1,6 +1,8 @@
-👋 Hi, I'm Keshav Saini
+Sure — here is the **complete `README.md` file**, cleaned up and ready to paste into your `saini8686/saini8686` repository.
 
-🚀 Software Developer | Full-Stack Developer | Team Leader
+# 👋 Hi, I'm Keshav Saini
+
+### 🚀 Software Developer | Full-Stack Developer | Team Leader
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="MasterHead" width="100%" />
@@ -15,56 +17,56 @@
   </a>
 </p>
 
-👨‍💻 About Me
+---
 
-I'm a passionate Software Developer focused on building modern, scalable, and user-friendly web applications.
+## 👨‍💻 About Me
 
-I enjoy turning ideas into real-world products using React, Next.js, Node.js, TypeScript, Vue, Nuxt, and Strapi.
+I'm a passionate **Software Developer** focused on building modern, scalable, and user-friendly web applications.
 
-🔭 Currently working on Next.js & Full-Stack Projects
+I enjoy turning ideas into real-world products using **React, Next.js, Node.js, TypeScript, Vue, Nuxt, and Strapi**.
 
-🌱 Currently learning Advanced Next.js, Node.js, TypeScript & System Design
+* 🔭 Currently working on **Next.js & Full-Stack Projects**
+* 🌱 Currently learning **Advanced Next.js, Node.js, TypeScript & System Design**
+* 💼 Experienced in **Frontend & Full-Stack Development**
+* 👥 Interested in **Team Leadership, Project Management & Product Development**
+* ⚡ I enjoy solving complex development problems and learning new technologies
+* 🎯 Goal: Become a highly skilled **Full-Stack Engineer**
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Node.js, Vue, Nuxt, Strapi & APIs**
+* 📫 Reach me at **[ks3399094@gmail.com](mailto:ks3399094@gmail.com)**
 
-💼 Experienced in Frontend & Full-Stack Development
+---
 
-👥 Interested in Team Leadership, Project Management & Product Development
+## 🛠️ Tech Stack
 
-⚡ I enjoy solving complex development problems and learning new technologies
-
-🎯 Goal: Become a highly skilled Full-Stack Engineer
-
-💬 Ask me about React, Next.js, JavaScript, TypeScript, Node.js, Vue, Nuxt, Strapi & APIs
-
-📫 Reach me at ks3399094@gmail.com
-
-🛠️ Tech Stack
-
-💻 Frontend Development
+### 💻 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap,sass" alt="Frontend Technologies" />
 </p>
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,strapi" alt="Backend Technologies" />
 </p>
 
-🗄️ Database & Cloud
+### 🗄️ Database & Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,vercel" alt="Database and Cloud Technologies" />
 </p>
 
-🔧 Tools & Development
+### 🔧 Tools & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,vscode,postman" alt="Development Tools" />
 </p>
 
-🚀 Technologies I Work With
+---
 
+## 🚀 Technologies I Work With
+
+```text
 Frontend
 ├── React.js
 ├── Next.js
@@ -113,35 +115,30 @@ Development Tools
 ├── VS Code
 ├── Postman
 └── Figma
+```
 
-💡 What I Can Do
+---
 
-⚛️ Build modern React & Next.js applications
+## 💡 What I Can Do
 
-🚀 Develop scalable Full-Stack web applications
+* ⚛️ Build modern React & Next.js applications
+* 🚀 Develop scalable Full-Stack web applications
+* 🔌 Build and integrate REST APIs
+* 🔐 Implement authentication and authorization
+* 🧩 Develop CMS-based applications with Strapi
+* 🎨 Create responsive and pixel-perfect UI
+* ⚡ Optimize website performance
+* 🎬 Build interactive animations and media experiences
+* 📊 Create dashboards and data visualizations
+* ☁️ Deploy applications to cloud platforms
+* 🐳 Work with Docker-based development environments
+* 👥 Lead development teams and manage projects
 
-🔌 Build and integrate REST APIs
+---
 
-🔐 Implement authentication and authorization
+## 🧠 Currently Learning
 
-🧩 Develop CMS-based applications with Strapi
-
-🎨 Create responsive and pixel-perfect UI
-
-⚡ Optimize website performance
-
-🎬 Build interactive animations and media experiences
-
-📊 Create dashboards and data visualizations
-
-☁️ Deploy applications to cloud platforms
-
-🐳 Work with Docker-based development environments
-
-👥 Lead development teams and manage projects
-
-🧠 Currently Learning
-
+```text
 Advanced TypeScript
         ↓
 Advanced Next.js
@@ -153,26 +150,24 @@ System Design
 Cloud & DevOps
         ↓
 AI-Powered Applications
+```
 
-🎯 2026 Goals
+---
 
-🚀 Build scalable Full-Stack applications
+## 🎯 2026 Goals
 
-⚛️ Master advanced React & Next.js
+* 🚀 Build scalable Full-Stack applications
+* ⚛️ Master advanced React & Next.js
+* 🟢 Improve Node.js backend architecture
+* 🧠 Learn System Design
+* 🤖 Build AI-powered web applications
+* 🐳 Improve Docker & DevOps skills
+* 👥 Grow as a technical team leader
+* 🌍 Contribute to Open Source
 
-🟢 Improve Node.js backend architecture
+---
 
-🧠 Learn System Design
-
-🤖 Build AI-powered web applications
-
-🐳 Improve Docker & DevOps skills
-
-👥 Grow as a technical team leader
-
-🌍 Contribute to Open Source
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -187,7 +182,9 @@ AI-Powered Applications
   />
 </p>
 
-🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -197,7 +194,9 @@ AI-Powered Applications
   />
 </p>
 
-📈 Contribution Graph
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img
@@ -207,7 +206,9 @@ AI-Powered Applications
   />
 </p>
 
-🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -216,84 +217,65 @@ AI-Powered Applications
   />
 </p>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <b>Let's connect and build something amazing together! 🚀</b>
-</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <br>
-      <a href="https://www.linkedin.com/in/keshav-saini447424/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
-      </a>
-      <br><br>
-      <b>LinkedIn</b>
-      <br>
-      <sub>Let's connect professionally</sub>
-      <br><br>
-      <a href="https://www.linkedin.com/in/keshav-saini447424/">
-        <img src="https://img.shields.io/badge/Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-      </a>
-      <br><br>
-    </td>
+  <a href="https://www.linkedin.com/in/keshav-saini447424/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="50"
+      height="50"
+    />
+  </a>
 
-<td align="center" width="33%">
-  <br>
+   
+
   <a href="https://twitter.com/sani_keshav">
-    <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="58" height="58" />
+    <img
+      src="https://cdn.simpleicons.org/x/ffffff"
+      alt="X / Twitter"
+      width="45"
+      height="45"
+    />
   </a>
-  <br><br>
-  <b>X / Twitter</b>
-  <br>
-  <sub>Follow me for updates</sub>
-  <br><br>
-  <a href="https://twitter.com/sani_keshav">
-    <img src="https://img.shields.io/badge/Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-  <br><br>
-</td>
 
-<td align="center" width="33%">
-  <br>
+   
+
   <a href="https://instagram.com/vip_saini__786">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="65" height="65" />
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      alt="Instagram"
+      width="50"
+      height="50"
+    />
   </a>
-  <br><br>
-  <b>Instagram</b>
-  <br>
-  <sub>Behind the scenes & more</sub>
-  <br><br>
-  <a href="https://instagram.com/vip_saini__786">
-    <img src="https://img.shields.io/badge/Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
-  </a>
-  <br><br>
-</td>
 
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Have%20a%20project%20in%20mind%3F-Let's%20build%20it!-111827?style=for-the-badge" alt="Let's build together" />
 </p>
 
 <p align="center">
+  📧
   <a href="mailto:ks3399094@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20ks3399094%40gmail.com-2563EB?style=for-the-badge" alt="Email Keshav" />
+    <b>ks3399094@gmail.com</b>
   </a>
 </p>
 
-⚡ Fun Fact
+---
 
-I may not be funny, but my code has fewer bugs than my jokes. 😄
+## ⚡ Fun Fact
 
-💻 Development Philosophy
+> **I may not be funny, but my code has fewer bugs than my jokes. 😄**
 
-"Write clean code, solve real problems, keep learning, and build things that matter."
+---
+
+## 💻 Development Philosophy
+
+> **"Write clean code, solve real problems, keep learning, and build things that matter."**
+
+---
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-0f3b1e0f-6d0c-4f4e-b5e2-3f2d8b7f7b4c.gif" width="100%" alt="Coding Animation" />
