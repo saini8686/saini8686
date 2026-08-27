@@ -1,5 +1,3 @@
-Sure — here is the **complete `README.md` file**, cleaned up and ready to paste into your `saini8686/saini8686` repository.
-
 # 👋 Hi, I'm Keshav Saini
 
 ### 🚀 Software Developer | Full-Stack Developer | Team Leader
