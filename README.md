@@ -40,44 +40,21 @@ I'm a **Software Developer** and **Team Leader** who builds modern, scalable, an
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+Frontend
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com)
+<p> <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="52" title="React" /></a> <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="52" title="Next.js" /></a> <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" width="52" title="Vue.js" /></a> <a href="https://nuxt.com"><img src="https://skillicons.dev/icons?i=nuxt" width="52" title="Nuxt" /></a> <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="52" title="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="52" title="JavaScript" /></a> <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="52" title="Tailwind CSS" /></a> <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="52" title="Bootstrap" /></a> <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" width="52" title="Sass" /></a> </p>
 
-**Backend & APIs**
+Backend & APIs
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
-[![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)](https://strapi.io)
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)](https://restfulapi.net)
+<p> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="52" title="Node.js" /></a> <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="52" title="Express" /></a> <a href="https://strapi.io"><img src="https://skillicons.dev/icons?i=strapi" width="52" title="Strapi" /></a> <a href="https://restfulapi.net"><img src="https://skillicons.dev/icons?i=swagger" width="52" title="REST API" /></a> </p>
 
-**Database & Cloud**
+Database & Cloud
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+<p> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="52" title="MySQL" /></a> <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="52" title="PostgreSQL" /></a> <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="52" title="MongoDB" /></a> <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="52" title="Supabase" /></a> <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" width="52" title="Firebase" /></a> <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="52" title="Vercel" /></a> </p>
 
-**Tools & Workflow**
+Tools & Workflow
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)
-
+<p> <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="52" title="Git" /></a> <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="52" title="GitHub" /></a> <a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" width="52" title="GitLab" /></a> <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="52" title="Docker" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="52" title="Figma" /></a> <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="52" title="VS Code" /></a> <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" width="52" title="Postman" /></a> </p>
 ---
 
 ## 💡 What I Bring to a Project
