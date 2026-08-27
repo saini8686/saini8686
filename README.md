@@ -176,18 +176,17 @@ AI-Powered Applications
 
 ## 🌐 Connect With Me
 
-<div style="display:flex;" align="center">
+<div align="center">
 
   <a href="https://www.linkedin.com/in/keshav-saini447424/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
-      width="50"
-      height="50"
+      width="45"
+      height="45"
     />
   </a>
-
-   
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/sani_keshav">
     <img
@@ -197,15 +196,14 @@ AI-Powered Applications
       height="45"
     />
   </a>
-
-   
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/vip_saini__786">
     <img
       src="https://skillicons.dev/icons?i=instagram"
       alt="Instagram"
-      width="50"
-      height="50"
+      width="45"
+      height="45"
     />
   </a>
 
