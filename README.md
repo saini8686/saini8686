@@ -178,7 +178,7 @@ AI-Powered Applications
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/keshav-saini447424/">
+  <a href="https://www.linkedin.com/in/keshav-saini447424/" style="text-decoration: none;">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
@@ -188,7 +188,7 @@ AI-Powered Applications
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/sani_keshav">
+  <a href="https://twitter.com/sani_keshav" style="text-decoration: none;">
     <img
       src="https://cdn.simpleicons.org/x/ffffff"
       alt="X / Twitter"
@@ -198,7 +198,7 @@ AI-Powered Applications
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/vip_saini__786">
+  <a href="https://instagram.com/vip_saini__786" style="text-decoration: none;">
     <img
       src="https://skillicons.dev/icons?i=instagram"
       alt="Instagram"
