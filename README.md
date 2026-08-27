@@ -164,46 +164,8 @@ AI-Powered Applications
 * 🌍 Contribute to Open Source
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saini8686&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Keshav's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saini8686&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saini8686&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
-
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saini8686&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
