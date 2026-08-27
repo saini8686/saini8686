@@ -176,7 +176,7 @@ AI-Powered Applications
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div style="display:flex;" align="center">
 
   <a href="https://www.linkedin.com/in/keshav-saini447424/">
     <img
@@ -209,7 +209,7 @@ AI-Powered Applications
     />
   </a>
 
-</p>
+</div>
 
 <p align="center">
   📧
